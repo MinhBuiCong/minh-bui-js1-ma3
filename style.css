@@ -1,12 +1,14 @@
 .result {
   background-color: lightgray;
+  margin: 10px;
+  padding: 10px;
   height: auto;
   width: auto;
 }
 
 .loader {
-  border: 16px solid #f3f3f3;
-  border-top: 16px solid red;
+  border: 20px solid #f3f3f3;
+  border-top: 20px solid red;
   border-radius: 50%;
   width: 100px;
   height: 100px;
